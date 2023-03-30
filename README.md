@@ -1,4 +1,4 @@
-# Bet Game FrontEnd
+# Bet Game Frontend
 
 Stack: react-scripts, apollo-client, graphql-ws, mui
 
